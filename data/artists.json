@@ -1,0 +1,41 @@
+[
+    {
+        "name": "flowrpot",
+        "role": "Art Direction, Engineering, & Music Production",
+        "yearRange": "2024 - Current",
+        "notableWorks": [
+            "'cold' EP - All 8 tracks (production & engineering), Cover art, Spotify canvas visualizer", 
+            "'flowrpot' mixtape - All 13 tracks (production & engineering), Cover art", 
+            "All single cover arts, engineering for all singles, and production for most", 
+            "Streaming services visuals & branding"
+        ],
+        "image": "assets/images/misc/profile-pics/flowrpot-pfp.jpg",
+        "links": [
+            {"label": "Instagram", "url": "https://instagram.com/flowrrrrpot"}
+        ]
+    },
+    {
+        "name": "AmChann",
+        "role": "Music Production, Engineering",
+        "yearRange": "2025",
+        "notableWorks": [
+            "'Gasoline (feat. AmChann)' - Track 7 on flowrpot's 'cold' EP (production & engineering)",
+            "'Call Girl' - track 3 on 'UnderWorld' (engineering)", 
+            "'Had My Back' - track 8 on 'UnderWorld' (production & engineering)", 
+            "'Evil Twin' - track 2 on 'Hades 2' (production)"
+        ],
+        "image": "assets/images/misc/profile-pics/amchann-pfp.jpg",
+        "links": [
+            {"label": "Instagram", "url": "https://www.instagram.com/amchannnnnn/"}
+        ]
+    },
+    {
+        "name": "ExoKaiser",
+        "role": "Cover Art",
+        "yearRange": "2021",
+        "notableWorks": [
+            "'V6 (feat. Xanman) [Remix]' - Cover art"
+        ],
+        "image": "assets/images/misc/profile-pics/exokaiser-pfp.jpg"
+    }
+]

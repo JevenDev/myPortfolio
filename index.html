@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JVN // PORTFOLIO</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&display=swap" rel="stylesheet">
+    <meta name="description" content="Portfolio of Jeven (JVN): Graphic Designer, Brand Identity, and Music Producer.">
+</head>
+<body>
+
+    <div id="error-banner" class="error-banner" role="alert" aria-live="assertive" hidden>
+        <p>! Error loading content ! <span id="error-message"></span> Displaying fallback data</p>
+    </div>
+
+    <div id="skills-ticker" class="skills-ticker">
+        <span class="ticker-content"></span>
+    </div>
+
+    <header class="header">
+        <nav class="navbar" aria-label="Main Navigation">
+            <a href="#hero" class="navbar-logo">JVN GRAPHICS</a>
+            
+            <ul class="navbar-links">
+                <li><a href="#work" data-section="work">Works</a></li>
+                <li><a href="#artists" data-section="artists">Artists</a></li>
+                <li><a href="#about" data-section="about">About</a></li>
+            </ul>
+
+            <a href="#contact" class="nav-contact-link">Get In Touch</a>
+        </nav>
+    </header>
+
+    <main id="app-content">
+
+        <section id="hero" class="hero-section" data-section="hero">
+            <div class="container">
+                <h1 class="hero-name">Jeven Randhawa</h1>
+                <p id="hero-tagline" class="hero-descriptor">Creative Portfolio</p>
+                <div class="hero-cta-group">
+                    <a href="#work" class="button button-primary">View Works →</a>
+                    <a href="#contact" class="button button-secondary">Contact</a>
+                </div>
+            </div>
+        </section>
+
+        <section id="work" class="work-section section-padding" data-section="work">
+            <div class="container">
+                
+                <div class="work-header">
+                    <h2 class="section-headline">Selected Works</h2>
+                    <a href="gallery.html" class="button button-secondary button-inline-link">View All Works →</a>
+                </div>
+                
+                <div id="projects-grid" class="projects-grid">
+                </div>
+                <p id="projects-empty-state" class="empty-state" hidden>No projects found. Check back soon!</p>
+
+            </div>
+        </section>
+
+        <section id="artists" class="artists-section section-padding" data-section="artists">
+            <div class="container">
+                <h2 class="section-headline">Artists I’ve Worked With</h2>
+                
+                <div id="artist-role-filters" class="filter-controls">
+                    </div>
+
+                <div id="artists-grid" class="artists-grid">
+                </div>
+                <p id="artists-empty-state" class="empty-state" hidden>No artists match the selected role filter.</p>
+            </div>
+        </section>
+
+        <section id="about" class="about-section section-padding" data-section="about">
+            <div class="container">
+                <h2 class="section-headline">About Me</h2>
+                <div id="about-content" class="about-content">
+                </div>
+            </div>
+        </section>
+
+        <section id="contact" class="contact-section section-padding" data-section="contact">
+            <div class="container">
+                <h2 class="section-headline">Contact</h2>
+                <div class="contact-links">
+                    <a id="contact-email-btn" href="mailto:hello@jvndigital.com" class="button button-primary button-large">Email Me Directly</a>
+                    <div id="social-links" class="social-links">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+    
+    <div id="content-modal" class="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+        <div class="modal-content" role="document">
+            <button class="modal-close" aria-label="Close Modal (Escape)">×</button>
+            <div id="modal-body" class="modal-body">
+                </div>
+        </div>
+    </div>
+
+    <button id="back-to-top" class="back-to-top" aria-label="Scroll back to top" hidden>↑</button>
+
+    <script src="script.js"></script>
+</body>
+</html>

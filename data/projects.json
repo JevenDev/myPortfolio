@@ -1,0 +1,344 @@
+[
+    {
+        "id": "project-001",
+        "type": "project",
+        "title": "'flowrpot' - Art & Production",
+        "tags": ["Design", "Brand Identity", "Cover Art", "Promotional Material", "Music Production"],
+        "year": "August 2025",
+        "role": "Lead Designer & Producer",
+        "featured": true,
+        "thumb": "assets/images/flowrpot/flowrpot-preview.jpg",
+        "description": "'flowrpot' is a Toronto-based hip-hop artist. I was responsible for designing the visual identity for his self-titled mixtape, including the cover art, promotional materials, and social media graphics. Additionally, I produced and engineered all 13 tracks on the mixtape, blending electronic beats with soulful melodies to create a unique sound that complements flowrpot's vocals.",
+        "links": [
+            {"label": "Link to flowrpot's socials", "url": "https://linktr.ee/flowrpot"},
+            {"label": "Link to the album", "url": "https://soundcloud.com/flowrpot/sets/flowrpot"}
+        ],
+        "gallery": [
+            {"label": "Cover Art", "url": "assets/images/flowrpot/flowrpot-self-titled-cover.png"},
+            {"label": "Track list on the back of the physical CD", "url": "assets/images/flowrpot/flowrpot-self-titled_back-cover.jpg"},
+            {"label": "Alternate cover for SoundCloud remixes", "url": "assets/images/flowrpot/flowrpot-self-titled-alternative-cover.png"}
+        ]
+    },
+    {
+        "id": "project-002",
+        "type": "project",
+        "title": "Pareidolia (Game)",
+        "tags": ["UI/UX Designer", "Asset Artist", "Music Production", "Sound Design", "Design"],
+        "year": "January 2025",
+        "role": "Lead UI/UX Designer",
+        "featured": true,
+        "thumb": "assets/images/pareidolia/parei-preview.jpg",
+        "description": [
+            "I was responsible for designing the user interface elements and title screen. I also created various minor assets throughout the game, and one of the soundtracks used in the beginning cutscenes. This game was a school project collaboration between UofT, and OCAD U students for the Level Up Showcase in spring 2025.", 
+            "Pareidolia is a first-person horror game inspired by the Bélmez Faces. The game takes place in an “ordinary” suburban home that is slowly being transformed and infected by face-like stains. Players must try and go about their daily routine by finishing chores, all the while trying to ignore the ever-growing presence of the stains that seem to be multiplying by the hour."
+        ],
+        "links": [
+            {"label": "View the Itch.io download page", "url": "https://nourdles.itch.io/pareidolia"},
+            {"label": "See the rest of the team here", "url": "https://teampareidolia.carrd.co/#about"}
+        ],
+        "gallery": [
+            {"label": "Intro GIF", "url": "assets/images/pareidolia/parei intro gif.gif"},
+            {"label": "Controller Scheme", "url": "assets/images/pareidolia/controllerSchemeAlt.png"}
+        ],
+        "audio": {
+            "title": "Intro Cutscene Track - Pareidolia",
+            "src": "assets/audio/pareidolia/pareidolia [intro cutscene] @prodbyjvn.mp3"
+        }
+    },
+    {
+        "id": "project-003",
+        "type": "project",
+        "title": "'cold' - Art & Production",
+        "tags": ["Design", "Brand Identity", "Cover Art", "Promotional Material", "Music Production"],
+        "year": "February 2025",
+        "role": "Lead Designer & Producer",
+        "featured": true,
+        "thumb": "assets/images/cold/flowrpot-cold-cover.jpg",
+        "description": "'flowrpot' is a Toronto-based hip-hop artist. I was responsible for designing the visual identity for his first EP, including the cover art, promotional materials, and social media graphics. Additionally, I produced and engineered all 8 tracks on the EP, blending electronic beats with soulful melodies to create a unique sound that complements flowrpot's vocals.",
+        "links": [
+            {"label": "Link to flowrpot's socials", "url": "https://linktr.ee/flowrpot"},
+            {"label": "Link to the album", "url": "https://soundcloud.com/flowrpot/sets/flowrpot"}
+        ],
+        "gallery": [
+            {"label": "Cover Art", "url": "assets/images/cold/flowrpot-cold-cover.jpg"},
+            {"label": "Track list on the back of the physical CD", "url": "assets/images/cold/flowrpot-cold-back-cover.jpg"},
+            {"label": "Alternate cover for SoundCloud remixes", "url": "assets/images/cold/flowrpot-cold-alternate-cover.jpg"}
+        ]
+    },
+    {
+        "id": "artwork-001",
+        "type": "artwork",
+        "title": "i hate eye contact",
+        "year": "December 2025",
+        "tags": ["Design", "Digital Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/i-hate-eye-contact.png",
+        "gallery": [
+            {"label": "Created using Adobe Photoshop", "url": "assets/images/misc/artwork/i-hate-eye-contact.png"}
+        ]
+    },
+    {
+        "id": "artwork-002",
+        "type": "artwork",
+        "title": "'V6 (feat. Xanman) [Remix]' - Single Cover Art",
+        "year": "April 2021",
+        "tags": ["Design", "Digital Art", "Cover Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/exokaiser-v6-cover.png",
+        "gallery": [
+            {"label": "Cover art for the artist ExoKaiser, created using Adobe Photoshop", "url": "assets/images/misc/artwork/exokaiser-v6-cover.png"}
+        ]
+    },
+    {
+        "id": "artwork-003",
+        "type": "artwork",
+        "title": "worthless creative",
+        "year": "April 2025",
+        "tags": ["Design", "Digital Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/worthless-creative-poster.png",
+        "gallery": [
+            {"label": "Created using Adobe Photoshop", "url": "assets/images/misc/artwork/worthless-creative-poster.png"}
+        ]
+    },
+    {
+        "id": "artwork-004",
+        "type": "artwork",
+        "title": "FOR YOU",
+        "year": "April 2025",
+        "tags": ["Design", "Digital Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/for-you-poster.png",
+        "gallery": [
+            {"label": "Created using Adobe Photoshop", "url": "assets/images/misc/artwork/for-you-poster.png"}
+        ]
+    },
+    {
+        "id": "artwork-005",
+        "type": "artwork",
+        "title": "Godess of Rot",
+        "year": "November 2024",
+        "tags": ["Design", "Digital Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/malenia-poster.png",
+        "gallery": [
+            {"label": "Created using Adobe Photoshop", "url": "assets/images/misc/artwork/malenia-poster.png"}
+        ]
+    },
+    {
+        "id": "artwork-006",
+        "type": "artwork",
+        "title": "'down' - Single Cover Art",
+        "year": "November 2024",
+        "tags": ["Design", "Digital Art", "Cover Art", "Visualizer", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/down-cover.png",
+        "gallery": [
+            {"label": "Cover art for the artist flowrpot, created using Adobe Photoshop", "url": "assets/images/misc/artwork/down-cover.png"},
+            {"label": "Visualizer GIF, Created using Premiere Pro", "url": "assets/images/misc/artwork/down-visualizer.gif"}
+        ]
+    },
+    {
+        "id": "artwork-007",
+        "type": "artwork",
+        "title": "eternal",
+        "year": "November 2024",
+        "tags": ["Design", "Digital Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/radhan-miqeulla-poster.png",
+        "gallery": [
+            {"label": "Created using Adobe Photoshop", "url": "assets/images/misc/artwork/radhan-miqeulla-poster.png"}
+        ]
+    },
+    {
+        "id": "artwork-008",
+        "type": "artwork",
+        "title": "like me",
+        "year": "October 2024",
+        "tags": ["Design", "Digital Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/like-me-poster.png",
+        "gallery": [
+            {"label": "Created using Adobe Photoshop", "url": "assets/images/misc/artwork/like-me-poster.png"}
+        ]
+    },
+    {
+        "id": "artwork-009",
+        "type": "artwork",
+        "title": "'EGO' - Single Cover Art",
+        "year": "October 2024",
+        "tags": ["Design", "Digital Art", "Cover Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/ego-cover.jpg",
+        "gallery": [
+            {"label": "Cover art for the artist flowrpot, created using Adobe Photoshop", "url": "assets/images/misc/artwork/ego-cover.jpg"}
+        ]
+    },
+    {
+        "id": "artwork-010",
+        "type": "artwork",
+        "title": "'CANNIBAL' - Single Cover Art",
+        "year": "August 2024",
+        "tags": ["Design", "Digital Art", "Cover Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/cannibal-cover.jpg",
+        "gallery": [
+            {"label": "Cover art for the artist flowrpot, created using Adobe Photoshop", "url": "assets/images/misc/artwork/cannibal-cover.jpg"}
+        ]
+    },
+    {
+        "id": "artwork-011",
+        "type": "artwork",
+        "title": "DUEL",
+        "year": "December 2023",
+        "tags": ["Design", "Digital Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/duel-poster.jpg",
+        "gallery": [
+            {"label": "Created using Adobe Photoshop", "url": "assets/images/misc/artwork/duel-poster.jpg"}
+        ]
+    },
+    {
+        "id": "artwork-012",
+        "type": "artwork",
+        "title": "VELOCITY",
+        "year": "October 2023",
+        "tags": ["Design", "Digital Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/velocity-poster.jpg",
+        "gallery": [
+            {"label": "Created using Adobe Photoshop", "url": "assets/images/misc/artwork/velocity-poster.jpg"}
+        ]
+    },
+    {
+        "id": "artwork-013",
+        "type": "artwork",
+        "title": "Aki Blink - Pixel Art Animation",
+        "year": "December 2022",
+        "tags": ["Design", "Digital Art", "Animation", "Pixel Art"],
+        "thumb": "assets/images/misc/artwork/aki-blink-animation.gif",
+        "gallery": [
+            {"label": "Created using Aseprite", "url": "assets/images/misc/artwork/aki-blink-animation.gif"}
+        ]
+    },
+    {
+        "id": "artwork-014",
+        "type": "artwork",
+        "title": "Stalker 2 Bodycam Poster",
+        "year": "October 2022",
+        "tags": ["Design", "Digital Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/stalker2-poster.jpg",
+        "gallery": [
+            {"label": "Created using Adobe Photoshop", "url": "assets/images/misc/artwork/stalker2-poster.jpg"}
+        ]
+    },
+    {
+        "id": "artwork-015",
+        "type": "artwork",
+        "title": "contradiction",
+        "year": "August 2022",
+        "tags": ["Design", "Digital Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/contradiction-poster.jpg",
+        "gallery": [
+            {"label": "Created using Adobe Photoshop", "url": "assets/images/misc/artwork/contradiction-poster.jpg"}
+        ]
+    },
+    {
+        "id": "artwork-016",
+        "type": "artwork",
+        "title": "'The Wolf of Peachtree 2' - Concept Cover Art",
+        "year": "March 2021",
+        "tags": ["Design", "Digital Art", "Cover Art", "Concept", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/wop2-cover-concept.jpg",
+        "gallery": [
+            {"label": "Created using Adobe Photoshop", "url": "assets/images/misc/artwork/wop2-cover-concept.jpg"}
+        ]
+    },
+    {
+        "id": "artwork-017",
+        "type": "artwork",
+        "title": "'I AM MUSIC' - Concept Cover Art",
+        "year": "September 2024",
+        "tags": ["Design", "Digital Art", "Cover Art", "Concept", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/playboi-carti-music-poster.jpg",
+        "gallery": [
+            {"label": "Created using Adobe Photoshop", "url": "assets/images/misc/artwork/playboi-carti-music-poster.jpg"}
+        ]
+    },
+    {
+        "id": "artwork-018",
+        "type": "artwork",
+        "title": "'Whole Lotta Red' Poster",
+        "year": "December 2024",
+        "tags": ["Design", "Digital Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/playboi-carti-wlr-poster.png",
+        "gallery": [
+            {"label": "Created using Adobe Photoshop", "url": "assets/images/misc/artwork/playboi-carti-wlr-poster.png"}
+        ]
+    },
+    {
+        "id": "artwork-019",
+        "type": "artwork",
+        "title": "'MELTDOWN' - Single Cover Art",
+        "year": "October 2025",
+        "tags": ["Design", "Digital Art", "Cover Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/meltdown-cover.png",
+        "gallery": [
+            {"label": "Cover art for the artist flowrpot, created using Adobe Photoshop", "url": "assets/images/misc/artwork/meltdown-cover.png"}
+        ]
+    },
+    {
+        "id": "artwork-020",
+        "type": "artwork",
+        "title": "SELF MADE - Single Cover Art",
+        "year": "June 2025",
+        "tags": ["Design", "Digital Art", "Cover Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/self-made-cover.png",
+        "gallery": [
+            {"label": "Cover art for the artist flowrpot, created using Adobe Photoshop", "url": "assets/images/misc/artwork/self-made-cover.png"}
+        ]
+    },
+    {
+        "id": "artwork-021",
+        "type": "artwork",
+        "title": "'2x' - Scrapped Mixtape Cover Art",
+        "year": "May 2025",
+        "tags": ["Design", "Digital Art", "Cover Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/2x-cover.png",
+        "gallery": [
+            {"label": "Cover art for the artists flowrpot & oh1uxie, created using Adobe Photoshop", "url": "assets/images/misc/artwork/2x-cover.png"}
+        ]
+    },
+    {
+        "id": "artwork-022",
+        "type": "artwork",
+        "title": "ISOLATION 3d Render",
+        "year": "January 2023",
+        "tags": ["Design", "Digital Art", "3D Render", "3D Modeling"],
+        "thumb": "assets/images/misc/artwork/isolation-3d-render.jpg",
+        "gallery": [
+            {"label": "Created using the program Crocotile3D, all assets by me", "url": "assets/images/misc/artwork/isolation-3d-render.jpg"}
+        ]
+    },
+    {
+        "id": "artwork-023",
+        "type": "artwork",
+        "title": "Asa Pixel Art",
+        "year": "April 2023",
+        "tags": ["Design", "Digital Art", "Pixel Art"],
+        "thumb": "assets/images/misc/artwork/asa-pixel-poster.png",
+        "gallery": [
+            {"label": "Created using Aseprite", "url": "assets/images/misc/artwork/asa-pixel-poster.png"}
+        ]
+    },
+    {
+        "id": "artwork-024",
+        "type": "artwork",
+        "title": "EXCEL!",
+        "year": "July 2023",
+        "tags": ["Design", "Digital Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/excel-poster.jpg",
+        "gallery": [
+            {"label": "Created using Adobe Photoshop", "url": "assets/images/misc/artwork/excel-poster.jpg"}
+        ]
+    },
+    {
+        "id": "artwork-025",
+        "type": "artwork",
+        "title": "peace in noise",
+        "year": "December 2025",
+        "tags": ["Design", "Digital Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/peace-in-noise-poster.png",
+        "gallery": [
+            {"label": "Created using Adobe Photoshop", "url": "assets/images/misc/artwork/peace-in-noise-poster.png"}
+        ]
+    }
+]

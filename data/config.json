@@ -1,0 +1,42 @@
+{
+    "siteName": "JVN Digital",
+    "tagline": "Graphic Designer & Producer | @jvngraphics",
+    "location": "Brampton ON, Canada",
+    "email": "jevenrandhawa@gmail.com",
+    "aboutHeadline": "Blending High-Impact Visuals with Production-Ready Sound.",
+    "aboutBody": "I am Jeven, a multidisciplinary creative specializing first in Graphic Design. I am a recent graduate from OCAD University. I love crafting compelling brand identities, album art, and working with clients to make their visions come to life. My secondary focus is on music production, in which I engineer and produce beats for various artists. This combination offers a unique and cohesive creative package for my clients.",
+    "skills": [
+        "Brand Identity & Logo Design",
+        "Album & Single Cover Art",
+        "Minimalist UI/UX",
+        "Mixing & Mastering (FL Studio)",
+        "Beat Production (FL Studio)",
+        "Adobe Creative Suite"
+    ],
+    "homeShowcase": [
+        "artwork-001",
+        "artwork-025", 
+        "project-002"
+    ],
+    "tickerIntervalMs": 4000,
+    "tickerMode": "fade",
+    "pauseOnHover": true,
+    "socials": [
+        {
+            "label": "Instagram (Art & Design)",
+            "url": "https://instagram.com/jvngraphics"
+        },
+        {
+            "label": "Instagram (Music Production)",
+            "url": "https://instagram.com/prodbyjvn"
+        },
+        {
+            "label": "Linktree",
+            "url": "https://linktr.ee/jvngraphics"
+        },
+        {
+            "label": "SoundCloud",
+            "url": "https://soundcloud.com/prodjvn"
+        }
+    ]
+}
