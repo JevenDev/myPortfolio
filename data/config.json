@@ -11,11 +11,16 @@
         "Minimalist UI/UX",
         "Mixing & Mastering (FL Studio)",
         "Beat Production (FL Studio)",
-        "Adobe Creative Suite"
+        "Adobe Creative Suite",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Figma",
+        "Canva"
     ],
     "homeShowcase": [
         "artwork-001",
-        "artwork-025", 
+        "artwork-026", 
         "project-002"
     ],
     "tickerIntervalMs": 4000,

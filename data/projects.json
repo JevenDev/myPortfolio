@@ -38,7 +38,11 @@
         ],
         "gallery": [
             {"label": "Intro GIF", "url": "assets/images/pareidolia/parei intro gif.gif"},
-            {"label": "Controller Scheme", "url": "assets/images/pareidolia/controllerSchemeAlt.png"}
+            {"label": "Controller Scheme", "url": "assets/images/pareidolia/controllerSchemeAlt.png"},
+            {"label": "UI & Model Screenshots", "url": "assets/images/pareidolia/parei-ui1.png"},
+            {"label": " ", "url": "assets/images/pareidolia/parei-ui2.png"},
+            {"label": " ", "url": "assets/images/pareidolia/parei-ui3.png"},
+            {"label": " ", "url": "assets/images/pareidolia/parei-ui4.png"}
         ],
         "audio": {
             "title": "Intro Cutscene Track - Pareidolia",
@@ -339,6 +343,17 @@
         "thumb": "assets/images/misc/artwork/peace-in-noise-poster.png",
         "gallery": [
             {"label": "Created using Adobe Photoshop", "url": "assets/images/misc/artwork/peace-in-noise-poster.png"}
+        ]
+    },
+    {
+        "id": "artwork-026",
+        "type": "artwork",
+        "title": "change",
+        "year": "December 2025",
+        "tags": ["Design", "Digital Art", "Photoshop Composite"],
+        "thumb": "assets/images/misc/artwork/change-poster.png",
+        "gallery": [
+            {"label": "Created using Adobe Photoshop", "url": "assets/images/misc/artwork/change-poster.png"}
         ]
     }
 ]
