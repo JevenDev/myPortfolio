@@ -70,6 +70,25 @@
         ]
     },
     {
+        "id": "project-004",
+        "type": "project",
+        "title": "Virality (Audio Tool Website)",
+        "tags": ["Design", "Web Design", "UI/UX Designer", "Frontend Development", "Figma", "HTML/CSS/JS"],
+        "year": "April 2025",
+        "role": "Creator",
+        "featured": true,
+        "thumb": "assets/images/virality/virality-screenshot1.png",
+        "description": "'Virality' is a web-based audio tool that allows users to create and share slowed + reverb, or nightcore sound clips. I designed and developed the entire user interface, including the interactive audio editor. The design is heavily inspired by the handheld PSP UI, with a focus on simplicity and ease of use. Users can upload their own audio files, apply effects, and export their creations for free, directly from the website.",
+        "links": [
+            {"label": "Link to the Website", "url": "https://jevendev.github.io/Virality/"},
+            {"label": "Link to the GitHub Repo", "url": "https://github.com/JevenDev/Virality"}
+        ],
+        "gallery": [
+            {"label": "Screenshot of the website", "url": "assets/images/virality/virality-screenshot1.png"},
+            {"label": "Initial design creation in Figma ", "url": "assets/images/virality/virality-concept1.png"}
+        ]
+    },
+    {
         "id": "artwork-001",
         "type": "artwork",
         "title": "i hate eye contact",
